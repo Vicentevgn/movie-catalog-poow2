@@ -176,16 +176,16 @@ public class FilmeService {
     }
 
     private FilmeDTO toDTO(Filme filme) {
-        List<Long> generosIds = filme.getGeneros().stream()
+        List<Long> generosIds = filme.getGeneros() != null ? filme.getGeneros().stream()
                 .map(fg -> fg.getGenero().getId())
-                .collect(Collectors.toList());
+                .collect(Collectors.toList()) : null;
 
-        List<FilmeDTO.FilmeAtorDTO> atoresDTO = filme.getAtores().stream()
+        List<FilmeDTO.FilmeAtorDTO> atoresDTO = filme.getAtores() != null ? filme.getAtores().stream()
                 .map(fa -> FilmeDTO.FilmeAtorDTO.builder()
                         .atorId(fa.getAtor().getId())
                         .papel(fa.getPapel())
                         .build())
-                .collect(Collectors.toList());
+                .collect(Collectors.toList()) : null;
 
         return FilmeDTO.builder()
                 .id(filme.getId())

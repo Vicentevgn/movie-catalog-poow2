@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c2fa18a-44c0-41fc-aafc-527cf917624e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_description.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/csi/politecnico/moviecatalog/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/csi/politecnico/moviecatalog/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/csi/politecnico/moviecatalog/service/FilmeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/csi/politecnico/moviecatalog/service/FilmeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/csi/politecnico/moviecatalog/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/csi/politecnico/moviecatalog/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/csi/politecnico/moviecatalog/service/FilmeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/csi/politecnico/moviecatalog/service/FilmeService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,15 +54,19 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "Spring Boot.MovieCatalogApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/vvice/OneDrive/Área de Trabalho/vg/movie-catalog",
+    "last_opened_file_path": "C:/Users/vvice/OneDrive/Área de Trabalho/vg/movie-catalog-projeto/movie-catalog",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -92,6 +103,9 @@
       <workItem from="1761418774801" duration="8174000" />
       <workItem from="1761427937806" duration="695000" />
       <workItem from="1762647115632" duration="1349000" />
+      <workItem from="1762650513599" duration="395000" />
+      <workItem from="1764627276569" duration="6686000" />
+      <workItem from="1764635641108" duration="7195000" />
     </task>
     <servers />
   </component>
