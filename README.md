@@ -1,6 +1,6 @@
 # 🎬 Movie Catalog
 
-Sistema web para gerenciamento de um catálogo de filmes, desenvolvido com **Java**, **Spring Boot**, **Servlets** e **JSP**. A aplicação permite administrar filmes, atores e gêneros por meio de uma interface web integrada a um backend responsável pelas regras de negócio e persistência dos dados.
+API para gerenciamento de um catálogo de filmes, desenvolvido com **Java** e **Spring Boot**. A aplicação permite administrar filmes, atores e gêneros por meio de uma interface web integrada a um backend responsável pelas regras de negócio e persistência dos dados.
 
 O projeto foi desenvolvido com o objetivo de consolidar conhecimentos em desenvolvimento web com Java, aplicando conceitos de arquitetura em camadas, persistência de dados e boas práticas de desenvolvimento.
 
